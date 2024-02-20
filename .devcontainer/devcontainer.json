@@ -9,6 +9,11 @@
         "UI.py"
       ]
     },
+      "features": {
+    "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+      "installCudnn": true
+    }
+  },
     "vscode": {
       "settings": {},
       "extensions": [
